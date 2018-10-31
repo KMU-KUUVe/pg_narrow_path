@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <package>
-  <name>pg_narrow_path</name>
+  <name>narrow_path</name>
   <version>0.0.0</version>
   <description>The narrow_path package</description>
 

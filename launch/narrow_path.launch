@@ -10,7 +10,7 @@
   
 
   <node pkg="narrow_path" name="narrow_path" type="narrow_path.py" output="screen">
-	  <param name="control_factor" value="100" />
+	  <param name="control_factor" value="110" />
 	  <param name="right_steer_scale" type = "double" value="1.5" />
 	  <param name="throttle" value="3" />
   </node>
@@ -41,3 +41,4 @@
 
 
 </launch>
+
